@@ -1,2 +1,1 @@
->  "it should keep improving.  " 
->  said Parasomnia
+>  "It should keep improving, not strong enough." 
