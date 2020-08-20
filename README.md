@@ -1,1 +1,1 @@
->  "It should keep improving, not strong enough." 
+> "因为有以后，所以才有趣。" -- 椎名真白
