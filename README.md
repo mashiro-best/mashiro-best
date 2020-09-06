@@ -1,1 +1,19 @@
-> "因为有以后，所以才有趣。" -- 椎名真白
+> "It's more interesting when the future's uncertain." 		-- Shiina Mashiro
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mashiro-best&show_icons=true"/>
+
+Hi, my name is `Parasomnia`
+
+If you like, you could:
+
+- 🍕  Get more infomation about me: [about me](https://me.mashiro.best)
+- 📃  Leave a message: [board](https://meow.mashiro.best/site/board)
+- 🌎  Just visit my website: [link](https://mashiro.best)
+- 💕  Vote for `Shiina Mashiro` in ISML: [voting](https://www.internationalsaimoe.com/voting)
+
+thanks for your visiting!
+
+
+
