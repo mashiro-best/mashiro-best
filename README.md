@@ -13,7 +13,7 @@ If you like, you could:
 - 🌎  Just visit my website: [link](https://mashiro.best)
 - 💕  Vote for `Shiina Mashiro` in ISML: [voting](https://www.internationalsaimoe.com/voting)
 
-thanks for your visiting!
+Thanks for your visiting!
 
 
 
